@@ -7,14 +7,13 @@ Tenho 21 anos e sou um desenvolvedor em formação, atualmente cursando Bacharel
 ## 🌱 Aprendizado Atual
 Tenho uma base sólida em diversas linguagens de programação, incluindo PHP, HTML, CSS, JavaScript, Python, C++, e C. Estou constantemente expandindo meu conhecimento e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
-## 💞️ Colaboração
-Estou entusiasmado em colaborar em projetos que envolvam desenvolvimento web, engenharia de software e análise de dados. Vamos colaborar e criar soluções inovadoras juntos!
+##💞️ Procurando Oportunidades
+ busco oportunidades de emprego na área de desenvolvimento, seja estágio ou posição júnior. Vamos trabalhar juntos para criar soluções inovadoras!
 
 ## 📫 Como Entrar em Contato
-Você pode entrar em contato comigo por e-mail em guilherme.barbosa221112@gmail.com ou whatsapp 55+ 11953349665
-
-## 😄 Pronomes
-Ele/Dele
+Você pode entrar em contato comigo por 
+e-mail: guilherme.barbosa221112@gmail.com
+whatsapp: 55+(11)953349665
 
 ## ⚡ Curiosidade
 Curiosidade sobre mim: Sou proficiente em Power BI, SAP e Oracle, com habilidades avançadas na Suíte Microsoft Office. Também sou apaixonado por análise de dados e gerenciamento de bancos de dados.

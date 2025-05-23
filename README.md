@@ -12,12 +12,12 @@ Tenho uma base sólida em diversas linguagens de programação:
 - 🐍 **Python**
 - 🧠 **C++**, **C**
 - 🔧 Estudando por conta própria: **C#** e **.NET**
-
+---
 ## 💼 Procurando Oportunidades
 
 Atualmente, estou **aberto a oportunidades** de estágio ou posições júnior na área de desenvolvimento.  
 Vamos trabalhar juntos para criar **soluções inovadoras** e de impacto!
-
+---
 ## 📫 Contato
 
 - 📧 E-mail: [guilherme.barbosa221112@gmail.com](mailto:guilherme.barbosa221112@gmail.com)  

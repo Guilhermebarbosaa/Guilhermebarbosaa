@@ -1,20 +1,34 @@
-# Bem-vindo ao meu perfil do GitHub!
-Sou Guilherme dos Santos Barbosa, um aspirante a desenvolvedor com paixão por tecnologia e resolução de problemas.
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
-### 🌱 Aprendizado Atual
-Tenho uma base sólida em diversas linguagens de programação, incluindo PHP, HTML, CSS, JavaScript, Python, C++, e C. Estou constantemente expandindo meu conhecimento e explorando novas tecnologias para aprimorar minhas habilidades como desenvolvedor. E tenho orgulho de dizer que comecei a estudar recentemente C# e .NET por conta própria, além de Java através do bootcamp do Santander.
+Sou **Guilherme dos Santos Barbosa**, um aspirante a desenvolvedor com paixão por tecnologia, resolução de problemas e aprendizado contínuo.
 
-### 💞️ Procurando Oportunidades
- busco oportunidades de emprego na área de desenvolvimento, seja estágio ou posição júnior. Vamos trabalhar juntos para criar soluções inovadoras!
+---
 
-### 📫 Como Entrar em Contato
-Você pode entrar em contato comigo por:
-e-mail: guilherme.barbosa221112@gmail.com
-whatsapp: 55+(11)953349665
+## 🌱 Atualmente Estudando
+
+Tenho uma base sólida em diversas linguagens de programação:
+
+- 💻 **PHP**, **HTML**, **CSS**, **JavaScript**
+- 🐍 **Python**
+- 🧠 **C++**, **C**
+- 🔧 Estudando por conta própria: **C#** e **.NET**
+
+## 💼 Procurando Oportunidades
+
+Atualmente, estou **aberto a oportunidades** de estágio ou posições júnior na área de desenvolvimento.  
+Vamos trabalhar juntos para criar **soluções inovadoras** e de impacto!
+
+## 📫 Contato
+
+- 📧 E-mail: [guilherme.barbosa221112@gmail.com](mailto:guilherme.barbosa221112@gmail.com)  
+- 📱 WhatsApp: [+55 (11) 95334-9665](https://wa.me/5511953349665)
+
+---
+
+## 📊 Linguagens mais usadas nos meus repositórios
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebarbosaa&layout=compact&langs_count=10&theme=radical)
 
+---
 
-Guilhermebarbosaa/Guilhermebarbosaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub>📌 _Este repositório especial (`Guilhermebarbosaa/Guilhermebarbosaa`) é exibido no topo do seu perfil GitHub!_</sub>

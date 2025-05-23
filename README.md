@@ -6,7 +6,7 @@ Sou **Guilherme dos Santos Barbosa**, um aspirante a desenvolvedor com paixão p
 
 ## 🌱 Atualmente Estudando
 
-| Linguagens que conheço                                             | Linguagens mais usadas nos meus repositórios                         |
+| Linguagens que ja usei                                          | Linguagens mais usadas nos meus repositórios                         |
 |--------------------------------------------------------------------|----------------------------------------------------------------------|
 | - 💻 **PHP**, **HTML**, **CSS**, **JavaScript** <br> - 🐍 **Python** <br> - 🧠 **C++**, **C** <br> - 🔧 Estudando: **C#**, **.NET**, **Java** (bootcamp Santander) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebarbosaa&layout=compact&langs_count=10&theme=radical) |
 

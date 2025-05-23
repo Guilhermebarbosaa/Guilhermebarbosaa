@@ -12,6 +12,7 @@ Você pode entrar em contato comigo por:
 e-mail: guilherme.barbosa221112@gmail.com
 whatsapp: 55+(11)953349665
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermebarbosaa&layout=compact&langs_count=10&theme=radical)
 
 
 Guilhermebarbosaa/Guilhermebarbosaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

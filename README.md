@@ -2,7 +2,7 @@
 
 Sou **Guilherme dos Santos Barbosa**, um aspirante a desenvolvedor com paixão por tecnologia, resolução de problemas e aprendizado contínuo.
 
----
+--- 
 
 ## 🌱 Atualmente Estudando
 
